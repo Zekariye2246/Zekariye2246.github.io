@@ -5,6 +5,14 @@ body{
     margin: 0;
     padding: 0;
     background-color: rgb(252, 250, 105);
+    display:flex;
+
+}
+.Main-div{
+    display: flex;
+    margin: 100px 100px 100px 100px;
+    
+  
 
 }
 nav{
